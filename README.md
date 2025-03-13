@@ -1,2 +1,2 @@
-# ReproducibleResearch
+# Reproducible Research
 peer assignment1 
